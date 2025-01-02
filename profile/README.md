@@ -6,7 +6,7 @@ The Coinbase Premium Index, a key metric reflecting retail Bitcoin demand in the
 
 ## What is the Coinbase Premium Index?
 
-The Coinbase Premium Index measures the difference between Bitcoin prices on Coinbase, a platform favored by U.S. retail investors, and Binance, which has a more global user base. A negative value indicates that selling pressure outweighs buying demand among U.S. investors.
+The Coinbase Premium Index measures [the difference between Bitcoin prices on Coinbase](https://coinspredictions.com/bitcoin-seller-pressure-pushes-coinbase-premium-index-to-12-month-low/), a platform favored by U.S. retail investors, and Binance, which has a more global user base. A negative value indicates that selling pressure outweighs buying demand among U.S. investors.
 
 The last time the index reached this level was in **January 2024**, coinciding with the launch of spot Bitcoin exchange-traded funds (ETFs) in the U.S.
 
