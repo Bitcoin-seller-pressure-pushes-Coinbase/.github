@@ -2,6 +2,8 @@
 
 The Coinbase Premium Index, a key metric reflecting retail Bitcoin demand in the U.S., has reached its lowest point in 12 months. As of December 31, 2024, the index stood at **-0.23**, signaling heightened selling pressure in the U.S. market.
 
+[Bitcoin ’seller pressure’ ]([https://cointelegraph.com/news/bitcoin-sell-pressure-btc-price-coinbase-premium-index-low?utm_source=chatgpt.com](https://coinspredictions.com/bitcoin-seller-pressure-pushes-coinbase-premium-index-to-12-month-low/))
+
 ## What is the Coinbase Premium Index?
 
 The Coinbase Premium Index measures the difference between Bitcoin prices on Coinbase, a platform favored by U.S. retail investors, and Binance, which has a more global user base. A negative value indicates that selling pressure outweighs buying demand among U.S. investors.
